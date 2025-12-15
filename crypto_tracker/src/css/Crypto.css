@@ -1,0 +1,13 @@
+
+.crypto-table tbody{
+  @apply bg-white divide-y divide-gray-200
+}
+
+.crypto-table th{
+ @apply px-6 py-4 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider
+}
+
+.crypto-table td{
+ @apply px-6 py-4
+}
+
